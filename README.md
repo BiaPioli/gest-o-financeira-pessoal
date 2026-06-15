@@ -1,2 +1,2 @@
 # gest-o-financeira-pessoal
-Sistema de gestão financeira pessoal utilizando Google Sheets, Apps Script e Looker Studio.
+Automação de dados financeiros utilizando Google Apps Script.
